@@ -1,0 +1,21 @@
+10
+Ce este un numar prim?
+T Prim
+Care este valoarea lui π (pi) pana la două zecimale?
+T 3.14
+Ce este o ecuaaie liniara?
+T Liniara
+Care este derivata functiei \(f(x) = x^2\)?
+T 2x
+Ce este un triunghi echilateral?
+T Echilateral
+Care este suma unghiurilor interne ale unui triunghi?
+T 180
+Ce reprezinta factorialul unui numar (n!)?
+T Produs
+Care este media aritmetica a numerelor 2, 4, 6, 8?
+T 5
+Ce este o matrice identitate?
+T Identitate
+Care este radacina patrata a numarului 49?
+T 7
